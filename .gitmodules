@@ -1,0 +1,9 @@
+[submodule "PicoMatrixDisplay/lib/DMD_STM32"]
+	path = PicoMatrixDisplay/lib/DMD_STM32
+	url = git@github.com:board707/DMD_STM32.git
+[submodule "PicoMatrixDisplay/lib/RGBConverter"]
+	path = PicoMatrixDisplay/lib/RGBConverter
+	url = git@github.com:ratkins/RGBConverter.git
+[submodule "PicoMatrixDisplay/lib/TeensyOS"]
+	path = PicoMatrixDisplay/lib/TeensyOS
+	url = git@github.com:william-redenbaugh/TeensyOS.git
