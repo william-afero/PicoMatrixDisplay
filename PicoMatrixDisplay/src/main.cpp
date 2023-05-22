@@ -88,13 +88,14 @@ void get_matrix_frame(void){
 }
 
 void loop(void) {
-  uint8_t state = Serial.read(); 
 
-  switch(state){
-    case 0:
-      get_matrix_frame();
-    break;
-    default:
-    break;
-  }
+}
+
+
+void setup1(){
+
+}
+
+void loop1(){
+  get_matrix_frame();
 }
