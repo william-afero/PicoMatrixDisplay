@@ -7,3 +7,6 @@
 [submodule "PicoMatrixDisplay/lib/TeensyOS"]
 	path = PicoMatrixDisplay/lib/TeensyOS
 	url = git@github.com:william-redenbaugh/TeensyOS.git
+[submodule "PicoMatrixDisplay/lib/CRC32"]
+	path = PicoMatrixDisplay/lib/CRC32
+	url = https://github.com/bakercp/CRC32.git
