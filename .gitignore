@@ -31,4 +31,4 @@
 *.out
 *.app
 
-/PicoMatrixDisplay/test/MatrixDisplayDriver/target/
+/git/PicoMatrixDisplay/PicoMatrixDisplay/test/MatrixDisplayDriver/target
